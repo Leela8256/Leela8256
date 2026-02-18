@@ -1,6 +1,6 @@
-# Hello, I'm Leela
 
-## AI Engineer & Deep Learning Researcher
+
+## AI Engineer & ML Reasercher 
 
 I'm a passionate AI/ML engineer and deep learning researcher based in the San Francisco Bay Area. With a Master's degree in Computer Science, I specialize in developing intelligent systems, autonomous agents, and cutting-edge AI applications.
 
@@ -47,8 +47,8 @@ I'm a passionate AI/ML engineer and deep learning researcher based in the San Fr
 
 ## Education
 
-- Master's Degree in Computer Science with specialization in AI/ML
-- Interests: Visa & Immigration Policy, Travel, Hiking, Sustainable Technology
+- Master's Degree in Applied Data Intelligence
+- Bahelor's in Electronics and Communication Engineering 
 
 ## Let's Connect
 
@@ -67,6 +67,5 @@ I'm interested in:
 
 ---
 
-"The future is built by those who combine curiosity with determination."
 
 Last updated: February 2026
