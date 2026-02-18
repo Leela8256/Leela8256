@@ -1,76 +1,72 @@
-# Hi there! 👋 I'm Leela
+# Hello, I'm Leela
 
-## 🚀 AI Engineer & Deep Learning Enthusiast
+## AI Engineer & Deep Learning Researcher
 
-I'm a passionate **AI/ML engineer** and **deep learning researcher** based in the **San Francisco Bay Area**. With a Master's degree in Computer Science, I specialize in developing intelligent systems, autonomous agents, and cutting-edge AI applications.
+I'm a passionate AI/ML engineer and deep learning researcher based in the San Francisco Bay Area. With a Master's degree in Computer Science, I specialize in developing intelligent systems, autonomous agents, and cutting-edge AI applications.
 
-### 🔬 What I'm Currently Working On
-- 🤖 **Multi-Agent Systems**: Building collaborative AI agents for autonomous task management
-- 🧠 **Deep Learning Models**: Developing and optimizing neural networks for real-world applications
-- 💬 **AI-Powered Tools**: Creating intelligent applications that help users make better decisions
-- 📊 **Computer Vision & NLP**: Exploring the latest advances in AI and machine learning
+## What I'm Currently Working On
 
-### 🌟 Key Projects
+- **Multi-Agent Systems**: Building collaborative AI agents for autonomous task management
+- **Deep Learning Models**: Developing and optimizing neural networks for real-world applications
+- **AI-Powered Tools**: Creating intelligent applications that help users make better decisions
+- **Natural Language Processing & Computer Vision**: Exploring the latest advances in AI and machine learning
 
-**[VerdictAI Factchecker](https://github.com/Leela8256/VerdictAI-factchecker)** - An AI-powered fact-checking tool that analyzes claims using advanced NLP and retrieval techniques.
+## Featured Projects
 
-**[Mental Health AI](https://github.com/Leela8256/mentalhealth_ai)** - An intelligent system for mental health support and wellness tracking.
+[VerdictAI Factchecker](https://github.com/Leela8256/VerdictAI-factchecker) - An AI-powered fact-checking tool that analyzes claims using advanced NLP and retrieval techniques.
 
-**[Multi-Agent Autonomous Workforce Assistant](https://github.com/Leela8256/Multi-Agent-Autonomous-Workforce-Assistant)** - Autonomous AI agents that seamlessly integrate with workplace tools to manage routine tasks.
+[Mental Health AI](https://github.com/Leela8256/mentalhealth_ai) - An intelligent system for mental health support and wellness tracking.
 
-**[Emotion-Aware TTS](https://github.com/Leela8256/emotion-aware-tts)** - Emotion-conditioned speech synthesis leveraging transformers and prosody modeling.
+[Multi-Agent Autonomous Workforce Assistant](https://github.com/Leela8256/Multi-Agent-Autonomous-Workforce-Assistant) - Autonomous AI agents that seamlessly integrate with workplace tools to manage routine tasks.
 
-**[AI4Invest](https://github.com/Leela8256/AI4invest)** - Machine learning models for investment analysis and financial decision-making.
+[Emotion-Aware Text-to-Speech](https://github.com/Leela8256/emotion-aware-tts) - Emotion-conditioned speech synthesis leveraging transformer architectures and prosody modeling.
 
-### 💡 Skills & Technologies
+[AI4Invest](https://github.com/Leela8256/AI4invest) - Machine learning models for investment analysis and financial decision-making.
 
-**Languages & Frameworks:**
-- 🐍 Python (PyTorch, TensorFlow, Scikit-learn)
-- 📚 Deep Learning frameworks (PyTorch, Transformers, LangChain)
-- 🔧 Software Engineering (Git, APIs, REST services)
+## Technical Expertise
 
-**Expertise Areas:**
+**Languages & Frameworks**
+- Python (PyTorch, TensorFlow, Scikit-learn)
+- Deep Learning frameworks (PyTorch, Transformers, LangChain)
+- Software Engineering (Git, APIs, REST services)
+
+**Core Competencies**
 - Deep Learning & Neural Networks
 - Natural Language Processing (NLP)
 - Computer Vision
 - Autonomous AI Agents
 - Model Training & Optimization
-- Research & Literature Survey
+- Research & Literature Review
 
-**Tools & Platforms:**
-- Git & GitHub
-- Jupyter Notebooks
+**Tools & Platforms**
+- Git & GitHub for version control
+- Jupyter Notebooks for experimentation
 - Cloud Platforms (AWS, GCP)
-- Hugging Face Transformers
-- LangChain & LLMs
+- Hugging Face Transformers library
+- LangChain & Large Language Models
 
-### 🎓 Education
-- **Master's Degree** - Computer Science with focus on AI/ML
-- **Interests**: Visa & Immigration Policy, Travel, Hiking, Sustainable Technology
+## Education
 
-### 🌐 Let's Connect!
+- Master's Degree in Computer Science with specialization in AI/ML
+- Interests: Visa & Immigration Policy, Travel, Hiking, Sustainable Technology
 
-- 💼 **Portfolio Website**: [leela8256.github.io](https://leela8256.github.io)
-- 📧 **Email**: [Reach out through GitHub](https://github.com/Leela8256)
-- 🔗 **GitHub**: [@Leela8256](https://github.com/Leela8256)
-- 🎵 **Music**: Ask me about my latest Spotify discoveries!
+## Let's Connect
 
-### 📈 GitHub Stats
+- Portfolio Website: [leela8256.github.io](https://leela8256.github.io)
+- GitHub: [@Leela8256](https://github.com/Leela8256)
+- Reach out through GitHub for direct contact
+- Ask me about my latest music discoveries on Spotify
 
-```
-Always learning, always building, always improving!
-```
-
-### 🤝 Open to Collaboration!
+## Open to Collaboration
 
 I'm interested in:
-- **AI Research Projects**: Pushing the boundaries of what's possible with AI
-- **Open Source Contributions**: Building tools that help the community
-- **Hackathons**: Rapid prototyping and innovation
-- **Knowledge Sharing**: Discussing research papers and AI trends
+- AI Research Projects: Pushing the boundaries of what's possible with artificial intelligence
+- Open Source Contributions: Building tools that help the community
+- Hackathons: Rapid prototyping and innovation challenges
+- Knowledge Sharing: Discussing research papers and current AI trends
 
 ---
 
-**"The future is AI, and the future is now!"** 🚀
+"The future is built by those who combine curiosity with determination."
 
-*Last updated: February 2026*
+Last updated: February 2026
