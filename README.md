@@ -50,12 +50,6 @@ I'm a passionate AI/ML engineer and deep learning researcher based in the San Fr
 - Master's Degree in Applied Data Intelligence
 - Bahelor's in Electronics and Communication Engineering 
 
-## Let's Connect
-
-- Portfolio Website: [leela8256.github.io](https://leela8256.github.io)
-- GitHub: [@Leela8256](https://github.com/Leela8256)
-- Reach out through GitHub for direct contact
-- Ask me about my latest music discoveries on Spotify
 
 ## Open to Collaboration
 
