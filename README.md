@@ -2,7 +2,7 @@
 
 ## AI  & ML Engineer
 
-I'm a passionate AI/ML engineer and deep learning researcher based in the San Francisco Bay Area. With a Master's degree in Computer Science, I specialize in developing intelligent systems, autonomous agents, and cutting-edge AI applications.
+I'm a passionate AI/ML engineer and deep learning researcher based in the San Francisco Bay Area. With a Master's degree in Applied Data Science, I specialize in developing intelligent systems, autonomous agents, and cutting-edge AI applications.
 
 ## What I'm Currently Working On
 
